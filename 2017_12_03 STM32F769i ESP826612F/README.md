@@ -1,10 +1,11 @@
-# STM32 ESP8266 12F Wifi HowTo Website
+# STM32 ESP8266 12F Wifi Tutorial Website
 
-Binarys from the video: STM32 ESP8266 12F Wifi HowTo Website  (03.12.2017)
-https://www.youtube.com/c/MikrocontrollerProjekte
+Binarys from the video: STM32 ESP8266 12F Wifi Tutorial Website  (released on 03.12.2017)
+
+https://youtu.be/KhYyIuf8IoU
 
 
-ESP8266 12F maybe must set to the following settings to run this demo correct:
+Maybe the ESP8266 12F must be set to the following settings to run this demo correct:
 - Baud:115200, 8, N, 1 (=default)
 
 

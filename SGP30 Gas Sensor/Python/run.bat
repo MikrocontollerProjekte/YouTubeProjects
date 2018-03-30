@@ -1,0 +1,1 @@
+python.exe SGP30_AirQualitySensor.py

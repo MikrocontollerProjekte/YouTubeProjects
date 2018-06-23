@@ -6,7 +6,7 @@
   * 				 GitHub:	https://github.com/MikrocontollerProjekte/YouTubeProjects/tree/master/ESC001V1 BLDC GUI
   * @brief   STM32F7 BLDC CAN Speed Controller ESC001V1 GUI
   ******************************************************************************
-  * @attention: - add this content inside the File STEVAL_ESC001V1.c in the ESC001V1 Demonstration Project
+  * @attention: - add/replace this content inside the File STEVAL_ESC001V1.c in the ESC001V1 Demonstration Project from the ST Website
   *
 */
 
@@ -99,9 +99,6 @@ void ESCboot(void)
   /* Enable FIFO 0 message pending Interrupt */
   CAN_ITConfig(CAN1, CAN_IT_FMP0, (FunctionalState)ENABLE);
 }
-
-
-
 
 /*This is the main function to use in the main.c in order to start the current example */
 void pwm_start()

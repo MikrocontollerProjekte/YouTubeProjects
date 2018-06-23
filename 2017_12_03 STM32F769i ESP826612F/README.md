@@ -4,6 +4,8 @@ Binarys from the video: STM32 ESP8266 12F Wifi Tutorial Website  (released on 03
 
 <https://youtu.be/KhYyIuf8IoU>
 
+[![YouTube Video](http://img.youtube.com/vi/KhYyIuf8IoU/0.jpg)](http://www.youtube.com/watch?v=KhYyIuf8IoU "STM32 ESP8266 12F Wifi Tutorial Website")
+
 Maybe the ESP8266 12F must be set to the following settings to run this demo correct:
 
 * **Baud:** 115200, 8, N, 1 (=default)

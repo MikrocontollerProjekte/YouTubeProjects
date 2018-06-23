@@ -1,6 +1,8 @@
 # SGP30 Multi-Pixel Gas Sensor
 
-Binarys for this YouTube Video Project.
+Binarys for this YouTube Video Project: <https://youtu.be/GbHgK9mSDfk>
+
+[![YouTube Video](http://img.youtube.com/vi/GbHgK9mSDfk/0.jpg)](http://www.youtube.com/watch?v=GbHgK9mSDfk "STM32 Air Quality Sensor SGP30")
 
 See: <https://www.youtube.com/c/MikrocontrollerProjekte>.
 

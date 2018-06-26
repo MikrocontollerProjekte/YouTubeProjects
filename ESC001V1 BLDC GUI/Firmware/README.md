@@ -7,6 +7,11 @@ Binarys for this YouTube Video Project.
 * STM32F746DiscoGUI.hex - Binary for the STM32F746 Discovery
 
 The STM32F746 File is using the external flash on the Discovery Board. So you must enable the External Loader from STM32-ST-Link Utility. 
+External Loader File : C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility/ExternalLoader/N25Q128A_STM32F746G-DISCO.stldr
+Device Name          : N25Q128A_STM32F746G-DISCO
+Device Start Address : 0x90000000
+Device Size          : 0x01000000
+Device Type          : Nor Flash
 
 
 For Video, see: <https://youtu.be/WawNPzLC5oc>.
